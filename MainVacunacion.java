@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class MainVacunacion {
     /**
-     * Clase main del juego
-     * Se encarga de iniciar o correr el juego.
+     * Clase main del programa
+     * Se encarga de iniciar o correr el programa.
      * @author Franz Pfeiffer
      * @version 5/24/2021
      * 
